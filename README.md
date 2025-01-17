@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anushika</h1>
 <h3 align="center">I am a first-year student passionate about programming, development, and exploring the world of technology. Currently building a strong foundation in computer science, I enjoy solving problems and creating innovative projects.</h3>
 
