@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Anushika</h1>
 <h3 align="center">I am a first-year student exploring the world of technology through Programming and Development. Currently building a strong foundation in computer science. This is where I share my learning journey and projects.</h3>
 
-- 🌱 I’m currently learning : **Python , HTML , C++**
+- 🌱 I’m currently learning : **Web Development , DSA in JAVA**
 
 - 📫 How to reach me : **anushkasaini0609@gmail.com**
 
