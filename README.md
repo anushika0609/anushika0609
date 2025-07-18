@@ -2,8 +2,9 @@
 <h3 align="center">A CSE student on a mission to code, create & glow 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#F76B8A&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;I+💖+learning+and+building+cool+stuff!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=25&duration=4000&pause=1000&color=F2A2E8&vCenter=true&width=500&lines=🌸+Hi+there!+I'm+Anushka.;🌿+Welcome+to+my+GitHub+garden.;💖+Let’s+build%2C+learn%2C+and+grow+together!" />
 </p>
+
 ---
 
 ## 🌸 About Me
@@ -29,7 +30,7 @@
 <p>I am obsessed with self help content.</p>
 ---
 
-## 💼 Tech Stack I Play With
+## 💼 Tech Stack 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" /> </p>
 ---
 
@@ -42,7 +43,6 @@
 
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/anushika-5a8829324/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="mailto:anushkasaini0609@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
-
 ---
 
 ## 🪞 Moodboard & Affirmation Vibes
@@ -50,6 +50,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
 ---
 
