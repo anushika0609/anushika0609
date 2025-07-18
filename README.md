@@ -13,8 +13,8 @@ Status: B.Tech CSE - 2nd Year 💻
 Passions: Coding 🌈 | Self-help 📖 | Mental Wellness 🤍
 
 ## 💡 Current Focus
-🧩 Data Structures & Algorithms in Java
-🎨 Frontend Development with HTML, CSS, JS, React
+🧩 Data Structures & Algorithms
+🎨 Frontend Development with HTML, CSS, JS
 🌈 Exploring projects that blend creativity + tech + impact
 
 ## 💭 Beliefs I Live By
@@ -33,5 +33,30 @@ Passions: Coding 🌈 | Self-help 📖 | Mental Wellness 🤍
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/anushika-5a8829324/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="mailto:anushkasaini0609@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
 
-## ✨ Bonus Aesthetic: GIF Moodboard 😄
-<p align="center"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" /> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" /> </p>
+---
+
+## 🪞 Aesthetic Moodboard & Affirmation Vibes
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<details>
+  <summary>🌸 Click to open daily aesthetic affirmations 🌙</summary>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/xT9IgoHgRYd2XIs7Di/giphy.gif" width="250" />
+    <img src="https://media.giphy.com/media/q8tdrdtO4tOFG/giphy.gif" width="250" />
+    <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="250" />
+  </p>
+
+  <p align="center">
+    💖 *“I am capable of doing hard things.”*  
+    🌷 *“My energy is sacred. I protect my peace.”*  
+    🌈 *“I deserve to live a soft, beautiful, abundant life.”*
+  </p>
+
+</details>
+
+---
+
