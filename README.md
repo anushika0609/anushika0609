@@ -2,7 +2,7 @@
 <h3 align="center">A CSE student on a mission to code, create & glow 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=25&duration=4000&pause=1000&color=F2A2E8&vCenter=true&width=500&lines=🌸+Hi+there!+I'm+Anushka.;🌿+Welcome+to+my+GitHub+garden.;💖+Let’s+build%2C+learn%2C+and+grow+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=25&duration=4000&pause=100&color=F2A2E8&vCenter=true&width=500&lines=🌸+Hi+there!+I'm+Anushka.;🌿+Welcome+to+my+GitHub+garden.;💖+Let’s+build%2C+learn%2C+and+grow+together!" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 💼 Tech Stack 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" height=50px width=50px /> </p>
 ---
 
 ## 📊 GitHub Activity
@@ -42,7 +42,7 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/anushika-5a8829324/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="mailto:anushkasaini0609@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/anushika-5a8829324/" target="_blank"> <img src="https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple211%2Fv4%2F09%2F74%2F71%2F0974713e-017a-6302-17f4-b2d681eb9c8b%2FAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png%2F1200x600wa.png&imgrefurl=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flinkedin-network-job-finder%2Fid288429040&docid=fPCJaj8vG3XQwM&tbnid=P-KGhuNN0rCJmM&vet=12ahUKEwj1l_ng_MaOAxWiUGcHHfP1PG4QM3oECCAQAA..i&w=1200&h=600&hcb=2&ved=2ahUKEwj1l_ng_MaOAxWiUGcHHfP1PG4QM3oECCAQAAstyle=flat-square&logo=linkedin" /> </a> <a href="mailto:anushkasaini0609@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
 ---
 
 ## 🪞 Moodboard & Affirmation Vibes
