@@ -38,13 +38,13 @@ Hey there! I'm **Anushka**, a 2nd-year Computer Science Engineering student. I'm
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Anushka's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushika0609&show_icons=true&theme=radical" alt="Anushka's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Anushka's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushika0609&theme=radical" alt="Anushka's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushika0609&layout=compact&theme=radical" />
 </p>
 
 ---
