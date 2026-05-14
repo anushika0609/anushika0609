@@ -1,9 +1,6 @@
 <h1 align="center">✨ Hey, I'm Anushika! 👩‍💻</h1>
 <h3 align="center">A CSE student on a mission to code, create & glow 🌱</h3>
 
-<p align="center" width=600 >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=F76B8A&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;I+💖+learning+and+building!" style="text-align: center;" />
-</p>
 
 ---
 
@@ -11,7 +8,7 @@
 
 <p>Name: Anushika</p> 
 <p>Status: B.Tech CSE - 2nd Year 💻</p>
-<p>Passions: Coding 🌈 | Self-help 📖 | Mental Wellness 🤍</p>
+<p>Passions: Coding 🌈 | Mental Wellness 🤍</p>
 ---
 
 ## 💡 Current Focus
@@ -23,12 +20,8 @@
 ## 💭 Beliefs I Live By
 <p>🚀 Progress beats perfection</p>
 <p>📅 Consistency > Motivation</p>
-<p>❤️ Kindness and code can change the world</p>
 ---
 
-## 🧠 Fun Fact: 
-<p>I am obsessed with self help content.</p>
----
 
 ## 💼 Tech Stack 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" /> </p>
@@ -46,7 +39,7 @@
 <p align="center"> </a> <a href="mailto:anushkasaini0609@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=70px" /> </a> </p>
 ---
 
-## 🪞 Motivation and Affirmation Vibes
+## 🪞 Some Positive Vibes
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark_night" />
