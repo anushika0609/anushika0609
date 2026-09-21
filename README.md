@@ -7,7 +7,7 @@
 ## 🌸 About Me
 
 <p>Name: Anushika</p> 
-<p>Status: B.Tech CSE - 2nd Year 💻</p>
+<p>Status: B.Tech CSE - 3rd Year 💻</p>
 <p>Passions: Coding 🌈 | Mental Wellness 🤍</p>
 ---
 
